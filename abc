@@ -1,1 +1,22 @@
 hi i am here
+git -version
+  540  git --version
+  541  mkdir gittest
+  542  cd h
+  543  cd gittest/
+  544  ls
+  545  git init
+  546  ls -al
+  547  touch abc
+  548  vi abc 
+  549  git status
+  550  git add .
+  551  git status
+  552  git commit -m "my first commit"
+  553  git status
+  554  git log
+  555  git push origin master
+  556  git remote add origin https://github.com/bhartijayant/myfirstproject.git
+  557  git push -u origin master
+  558  history 
+
